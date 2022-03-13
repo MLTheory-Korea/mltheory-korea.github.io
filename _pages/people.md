@@ -4,85 +4,60 @@ title: "People"
 permalink: /people/
 ---
 Chanwoo Park 
+
 ![Picture](../images/bio-photo.jpg)
 [Homepage](https://chanwoo-park-official.github.io/)
 
+
 Taekyun Lee 
-![Picture](../assets/img/tklee.jpg)
+
+![Picture](../images/bio-photo.jpg)
 [Homepage](https://taekyun.me/)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+Soheun Yi
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+![Picture](../images/bio-photo.jpg)
+[Homepage](lsdluis1.github.io)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+Jeonghwan Lee 
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+![Picture](../images/bio-photo.jpg)
+[Homepage](https://brianlee97.github.io/)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+Jeongwoo Oh 
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+![Picture](../images/bio-photo.jpg)
+[Homepage](https://github.com/OhJeongwoo)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+Joonhyung Shin
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+![Picture](../images/bio-photo.jpg)
+[Homepage](https://www.joonhyung.xyz/)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+Jeonghyun Lee
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+![Picture](../images/bio-photo.jpg)
+[Homepage](https://notdefined)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+Seokjin Kim 
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+![Picture](../images/bio-photo.jpg)
+[Homepage](https://notdefined)
 
-Chanwoo Park 
-![Picture](../assets/img/cwpark.jpg)
-[Homepage](https://chanwoo-park-official.github.io/)
+
+Sunghyeon Jo
+
+![Picture](../images/bio-photo.jpg)
+[Homepage](https://notdefined)
+
+
+
+
+
+If you want other members' information, please make a request.
