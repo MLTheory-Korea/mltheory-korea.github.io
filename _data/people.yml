@@ -5,26 +5,25 @@ Chanwoo Park:
   uri: "https://chanwoo-park-official.github.io/"
   avatar: "chanwoo.jpg"
 
+Jeonghwan Lee:
+  name: "Jeonghwan Lee"
+  uri: "https://brianlee97.github.io/"
+  avatar: "profile.png"
 
 Taekyun Lee:
   name: "Taekyun Lee"
   uri: "https://taekyun.me/"
   avatar: "taekyun.jpeg"
 
-Soheun Yi:
-  name: "Soheun Yi"
-  uri: "https://lsdluis1.github.io/"
-  avatar: "soheun.jpg"
-
-Jeonghwan Lee:
-  name: "Jeonghwan Lee"
-  uri: "https://brianlee97.github.io/"
-  avatar: "profile.png"
-
 Jeongwoo Oh:
   name: "Jeongwoo Oh"
   uri: "undefined"
   avatar: "profile.png"
+
+Soheun Yi:
+  name: "Soheun Yi"
+  uri: "https://lsdluis1.github.io/"
+  avatar: "soheun.jpg"
 
 Joonhyung Shin:
   name: "Joonhyung Shin"
@@ -42,3 +41,8 @@ Seokjin Kim:
 Sunghyeon Jo:
   name: "Sunghyeon Jo"
   avatar: "profile.png"
+
+Junghyun Lee:
+  name: "Junghyun Lee"
+  uri: "https://nick-jhlee.netlify.app/"  
+  avatar: "Junghyun.jpeg"
