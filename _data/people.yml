@@ -25,6 +25,11 @@ Soheun Yi:
   uri: "https://lsdluis1.github.io/"
   avatar: "soheun.jpg"
 
+Junghyun Lee:
+  name: "Junghyun Lee"
+  uri: "https://nick-jhlee.netlify.app/"  
+  avatar: "Junghyun.jpeg"
+
 Joonhyung Shin:
   name: "Joonhyung Shin"
   uri: "https://www.joonhyung.xyz/"
@@ -42,7 +47,4 @@ Sunghyeon Jo:
   name: "Sunghyeon Jo"
   avatar: "profile.png"
 
-Junghyun Lee:
-  name: "Junghyun Lee"
-  uri: "https://nick-jhlee.netlify.app/"  
-  avatar: "Junghyun.jpeg"
+
